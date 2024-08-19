@@ -250,3 +250,9 @@ body {
         text-align: center; /* Align text to the center */
       }
   }
+
+  .category-title{
+    display:block;
+    text-align: center;
+    margin-top:10px;
+  }
